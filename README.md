@@ -9,5 +9,19 @@ A aplicação consiste na implementação do modelo de domínio mostrado abaixo,
 
 ![DomainModel](https://github.com/Gusthavo-Henrique/Assets/blob/main/modelo%20de%20dominio.png)
 
+# Tecnologias utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
 
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 11
+```bash
+# clonar repositório
+# entrar na pasta do projeto back end
+# executar o projeto
 
